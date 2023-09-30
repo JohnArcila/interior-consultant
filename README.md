@@ -31,6 +31,7 @@
 
 - [HTML5](https://html5up.net/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript]([https://developer.mozilla.org/en-US/docs/Web/CSS](https://www.javascript.com/))
 
 
 ## Features
