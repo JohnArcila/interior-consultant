@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://johnarcila.github.io/interior-consultant/">
       Demo
     </a>
      
@@ -18,8 +18,9 @@
 
 ## Overview
 
-![screenshot](#)
-![screenshot](#)
+![screenshot](https://github.com/JohnArcila/interior-consultant/blob/main/img/1.jpeg)
+![screenshot](https://github.com/JohnArcila/interior-consultant/blob/main/img/3.jpeg)
+![screenshot](https://github.com/JohnArcila/interior-consultant/blob/main/img/2.jpeg)
 
 
 
